@@ -3,12 +3,90 @@
     <title>Borg Creative Studios</title>
     <link href="https://blog.borgcreative.com/feed.xml" rel="self" />
     <link href="https://blog.borgcreative.com" />
-    <updated>2021-07-01T17:13:22-07:00</updated>
+    <updated>2021-07-02T09:16:14-07:00</updated>
     <author>
         <name>Jake</name>
     </author>
     <id>https://blog.borgcreative.com</id>
 
+    <entry>
+        <title>Jake&#x27;s Cold Brew Coffee</title>
+        <author>
+            <name>Jake</name>
+        </author>
+        <link href="https://blog.borgcreative.com/jakes-cold-brew-coffee.html"/>
+        <id>https://blog.borgcreative.com/jakes-cold-brew-coffee.html</id>
+            <category term="Recipe"/>
+            <category term="Life at BCS"/>
+            <category term="Food"/>
+
+        <updated>2021-07-02T09:16:14-07:00</updated>
+            <summary>
+                <![CDATA[
+                     It's hot 🥵&nbsp; So let's make some cold brew coffee! Prep Time: 5 minutes Brew Time: 12-24 hours This is a pretty easy recipe. Just mix your ground coffee, water, and salt (Optional) into your jar and close it. Then, set it out for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    It's hot 🥵&nbsp;
+  </p>
+
+  <p>
+    So let's make some cold brew coffee!
+  </p>
+
+  <p>
+    Prep Time: 5 minutes
+  </p>
+
+  <p>
+    Brew Time: 12-24 hours
+  </p>
+
+    <h5 id="you-will-need">
+      You will need:
+    </h5>
+
+  <ul>
+    <li>4-5 tablespoons of fine-medium ground coffee (Depends on how strong you like your coffee)</li><li>1 cup of water</li><li>Canning jar or other glass sealable container (Plastic can be used, but may become stained)</li><li>Pinch of salt (Optional)</li>
+  </ul>
+
+    <h5 id="now-what">
+      Now what?
+    </h5>
+
+  <p>
+    This is a pretty easy recipe. Just mix your ground coffee, water, and salt (Optional) into your jar and close it. Then, set it out for 12-24 hours.&nbsp;
+  </p>
+
+    <h5 id="timing-your-brew">
+      Timing your brew*
+    </h5>
+
+  <p>
+    If you want a milder brew that is ready to drink as is, brew for 12 hours.
+  </p>
+
+  <p>
+    If you want more of a cold brew concentrate, let it brew for 24 hours.
+  </p>
+
+  <p>
+    *Your elevation and temperature of your home or office may impact brew time.
+  </p>
+
+    <h5 id="commentary">
+      Commentary
+    </h5>
+
+  <p>
+    I personally choose to brew this for 12 hours as I am slightly impatient. I like to prepare the coffee early in the evening, that way it is ready for my morning coffee. Let's be honest, it is so hot here in Southern California that brewing hot coffee is not appealing.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>BCS Social is now in beta!</title>
         <author>

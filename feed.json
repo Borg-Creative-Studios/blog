@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://blog.borgcreative.com/jakes-cold-brew-coffee.html",
+            "url": "https://blog.borgcreative.com/jakes-cold-brew-coffee.html",
+            "title": "Jake&#x27;s Cold Brew Coffee",
+            "summary": " It's hot 🥵&nbsp; So let's make some cold brew coffee! Prep Time: 5 minutes Brew Time: 12-24 hours This is a pretty easy recipe. Just mix your ground coffee, water, and salt (Optional) into your jar and close it. Then, set it out for&hellip;",
+            "content_html": "\n  <p>\n    It's hot 🥵&nbsp;\n  </p>\n\n  <p>\n    So let's make some cold brew coffee!\n  </p>\n\n  <p>\n    Prep Time: 5 minutes\n  </p>\n\n  <p>\n    Brew Time: 12-24 hours\n  </p>\n\n    <h5 id=\"you-will-need\">\n      You will need:\n    </h5>\n\n  <ul>\n    <li>4-5 tablespoons of fine-medium ground coffee (Depends on how strong you like your coffee)</li><li>1 cup of water</li><li>Canning jar or other glass sealable container (Plastic can be used, but may become stained)</li><li>Pinch of salt (Optional)</li>\n  </ul>\n\n    <h5 id=\"now-what\">\n      Now what?\n    </h5>\n\n  <p>\n    This is a pretty easy recipe. Just mix your ground coffee, water, and salt (Optional) into your jar and close it. Then, set it out for 12-24 hours.&nbsp;\n  </p>\n\n    <h5 id=\"timing-your-brew\">\n      Timing your brew*\n    </h5>\n\n  <p>\n    If you want a milder brew that is ready to drink as is, brew for 12 hours.\n  </p>\n\n  <p>\n    If you want more of a cold brew concentrate, let it brew for 24 hours.\n  </p>\n\n  <p>\n    *Your elevation and temperature of your home or office may impact brew time.\n  </p>\n\n    <h5 id=\"commentary\">\n      Commentary\n    </h5>\n\n  <p>\n    I personally choose to brew this for 12 hours as I am slightly impatient. I like to prepare the coffee early in the evening, that way it is ready for my morning coffee. Let's be honest, it is so hot here in Southern California that brewing hot coffee is not appealing.\n  </p>",
+            "author": {
+                "name": "Jake"
+            },
+            "tags": [
+                   "Recipe",
+                   "Life at BCS",
+                   "Food"
+            ],
+            "date_published": "2021-07-02T09:08:22-07:00",
+            "date_modified": "2021-07-02T09:16:14-07:00"
+        },
+        {
             "id": "https://blog.borgcreative.com/bcs-social-is-now-in-beta.html",
             "url": "https://blog.borgcreative.com/bcs-social-is-now-in-beta.html",
             "title": "BCS Social is now in beta!",
