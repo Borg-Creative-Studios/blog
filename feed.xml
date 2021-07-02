@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Borg Creative Studios</title>
+    <link href="https://blog.borgcreative.com/feed.xml" rel="self" />
+    <link href="https://blog.borgcreative.com" />
+    <updated>2021-07-01T17:13:22-07:00</updated>
+    <author>
+        <name>Jake</name>
+    </author>
+    <id>https://blog.borgcreative.com</id>
+
+    <entry>
+        <title>BCS Social is now in beta!</title>
+        <author>
+            <name>Jake</name>
+        </author>
+        <link href="https://blog.borgcreative.com/bcs-social-is-now-in-beta.html"/>
+        <id>https://blog.borgcreative.com/bcs-social-is-now-in-beta.html</id>
+            <category term="Products"/>
+
+        <updated>2021-07-01T17:13:22-07:00</updated>
+            <summary>
+                <![CDATA[
+                     A new, vote based social/broadcasting platform We are excited to announce that BCS Social is now in beta! But what makes it special? Well, BCS Social is designed for the people who hate Mondays. Yes, that’s right. BCS Social is also curated by the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h4 id="a-new-vote-based-socialbroadcasting-platform">
+      A new, vote based social/broadcasting platform
+    </h4>
+
+  <p>
+    We are excited to announce that BCS Social is now in beta!
+  </p>
+
+  <p>
+    But what makes it special?
+  </p>
+
+  <p>
+    Well, BCS Social is designed for the people who hate Mondays. Yes, that’s right. BCS Social is also curated by the people, not an algorithm. When a user creates a post, it is reviewed to insure that it meets content guidelines, then it goes to the voting booth. At the voting booth, users vote on posts with a thumbs up or a thumbs down. Then on Mondays, the posts with the most votes go live on the feed and those that don’t make the cut are lost forever!
+  </p>
+
+  <p>
+    Check it out <a href="https://www.bcssocial.net/feed.html" target="_blank" rel="nofollow noopener">HERE</a>.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

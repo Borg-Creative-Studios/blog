@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Borg Creative Studios",
+    "description": "",
+    "home_page_url": "https://blog.borgcreative.com",
+    "feed_url": "https://blog.borgcreative.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jake"
+    },
+    "items": [
+        {
+            "id": "https://blog.borgcreative.com/bcs-social-is-now-in-beta.html",
+            "url": "https://blog.borgcreative.com/bcs-social-is-now-in-beta.html",
+            "title": "BCS Social is now in beta!",
+            "summary": " A new, vote based social/broadcasting platform We are excited to announce that BCS Social is now in beta! But what makes it special? Well, BCS Social is designed for the people who hate Mondays. Yes, that’s right. BCS Social is also curated by the&hellip;",
+            "content_html": "\n    <h4 id=\"a-new-vote-based-socialbroadcasting-platform\">\n      A new, vote based social/broadcasting platform\n    </h4>\n\n  <p>\n    We are excited to announce that BCS Social is now in beta!\n  </p>\n\n  <p>\n    But what makes it special?\n  </p>\n\n  <p>\n    Well, BCS Social is designed for the people who hate Mondays. Yes, that’s right. BCS Social is also curated by the people, not an algorithm. When a user creates a post, it is reviewed to insure that it meets content guidelines, then it goes to the voting booth. At the voting booth, users vote on posts with a thumbs up or a thumbs down. Then on Mondays, the posts with the most votes go live on the feed and those that don’t make the cut are lost forever!\n  </p>\n\n  <p>\n    Check it out <a href=\"https://www.bcssocial.net/feed.html\" target=\"_blank\" rel=\"nofollow noopener\">HERE</a>.\n  </p>",
+            "author": {
+                "name": "Jake"
+            },
+            "tags": [
+                   "Products"
+            ],
+            "date_published": "2021-07-01T17:09:32-07:00",
+            "date_modified": "2021-07-01T17:13:22-07:00"
+        }
+    ]
+}
