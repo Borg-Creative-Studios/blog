@@ -3,12 +3,52 @@
     <title>Borg Creative Studios</title>
     <link href="https://blog.borgcreative.com/feed.xml" rel="self" />
     <link href="https://blog.borgcreative.com" />
-    <updated>2021-07-02T09:16:14-07:00</updated>
+    <updated>2021-07-22T16:20:46-07:00</updated>
     <author>
         <name>Jake</name>
     </author>
     <id>https://blog.borgcreative.com</id>
 
+    <entry>
+        <title>Open Source Site</title>
+        <author>
+            <name>Jake</name>
+        </author>
+        <link href="https://blog.borgcreative.com/open-source-site.html"/>
+        <id>https://blog.borgcreative.com/open-source-site.html</id>
+            <category term="Life at BCS"/>
+
+        <updated>2021-07-22T16:20:46-07:00</updated>
+            <summary>
+                <![CDATA[
+                     Our open source and transparency website is now live! All of our open source projects can now easily be found in one place. Eventually, we will ad funding and support links to the projects. If we ever have to suspend or ban ads*, we&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Our open source and transparency website is now live!
+  </p>
+
+  <p>
+    All of our open source projects can now easily be found in one <u><a href="http://open.borgcreative.com/" target="_blank">place</a>.</u>
+  </p>
+
+  <p>
+    Eventually, we will ad funding and support links to the projects.
+  </p>
+
+  <p>
+    If we ever have to suspend or ban ads*, we will post about it here. We do this as part of our dedication to transparency and honesty.&nbsp;
+  </p>
+
+  <p>
+    *The ad nor its publisher will be public, but the policy violated and action taken will be public.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Jake&#x27;s Cold Brew Coffee</title>
         <author>
