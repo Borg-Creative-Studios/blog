@@ -3,12 +3,55 @@
     <title>Borg Creative Studios</title>
     <link href="https://blog.borgcreative.com/feed.xml" rel="self" />
     <link href="https://blog.borgcreative.com" />
-    <updated>2021-07-22T16:20:46-07:00</updated>
+    <updated>2021-07-28T15:56:06-07:00</updated>
     <author>
         <name>Jake</name>
     </author>
     <id>https://blog.borgcreative.com</id>
 
+    <entry>
+        <title>Building A Privacy Oriented Company</title>
+        <author>
+            <name>Jake</name>
+        </author>
+        <link href="https://blog.borgcreative.com/building-a-privacy-oriented-company.html"/>
+        <id>https://blog.borgcreative.com/building-a-privacy-oriented-company.html</id>
+
+        <updated>2021-07-28T15:56:06-07:00</updated>
+            <summary>
+                <![CDATA[
+                     Building products with the user's privacy in mind is not as easy as it sounds. Almost every digital product out there has some kind of third party backend service that can read data. That is why I have carefully chosen which services and what&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Building products with the user's privacy in mind is not as easy as it sounds. Almost every digital product out there has some kind of third party backend service that can read data. That is why I have carefully chosen which services and what backend systems we use at BCS. For each one I read the privacy policies and ask, "Would I want to use this product based on this policy?" If the answer is "no" or "maybe," we do not utilize that service.&nbsp;
+  </p>
+
+  <p>
+    This is actually one of the reasons Borg Creative Studios was founded. I was trying to advertise a ministry I work worth and I could not find a marketing platform that did not excessively record viewer data that was reasonably priced.
+  </p>
+
+  <p>
+    So, I created an ad platform.
+  </p>
+
+  <p>
+    Then a web browser.
+  </p>
+
+  <p>
+    Then a CSS library
+  </p>
+
+  <p>
+    And the next thing I knew I was filing the articles of incorporation.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Open Source Site</title>
         <author>

@@ -5,10 +5,25 @@
     "home_page_url": "https://blog.borgcreative.com",
     "feed_url": "https://blog.borgcreative.com/feed.json",
     "user_comment": "",
+    "icon": "https://blog.borgcreative.com/media/website/borg.png",
     "author": {
         "name": "Jake"
     },
     "items": [
+        {
+            "id": "https://blog.borgcreative.com/building-a-privacy-oriented-company.html",
+            "url": "https://blog.borgcreative.com/building-a-privacy-oriented-company.html",
+            "title": "Building A Privacy Oriented Company",
+            "summary": " Building products with the user's privacy in mind is not as easy as it sounds. Almost every digital product out there has some kind of third party backend service that can read data. That is why I have carefully chosen which services and what&hellip;",
+            "content_html": "\n  <p>\n    Building products with the user's privacy in mind is not as easy as it sounds. Almost every digital product out there has some kind of third party backend service that can read data. That is why I have carefully chosen which services and what backend systems we use at BCS. For each one I read the privacy policies and ask, \"Would I want to use this product based on this policy?\" If the answer is \"no\" or \"maybe,\" we do not utilize that service.&nbsp;\n  </p>\n\n  <p>\n    This is actually one of the reasons Borg Creative Studios was founded. I was trying to advertise a ministry I work worth and I could not find a marketing platform that did not excessively record viewer data that was reasonably priced.\n  </p>\n\n  <p>\n    So, I created an ad platform.\n  </p>\n\n  <p>\n    Then a web browser.\n  </p>\n\n  <p>\n    Then a CSS library\n  </p>\n\n  <p>\n    And the next thing I knew I was filing the articles of incorporation.\n  </p>",
+            "author": {
+                "name": "Jake"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-28T15:56:00-07:00",
+            "date_modified": "2021-07-28T15:56:06-07:00"
+        },
         {
             "id": "https://blog.borgcreative.com/open-source-site.html",
             "url": "https://blog.borgcreative.com/open-source-site.html",
