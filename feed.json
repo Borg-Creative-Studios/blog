@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://blog.borgcreative.com/building-a-privacy-oriented-company.html",
-            "url": "https://blog.borgcreative.com/building-a-privacy-oriented-company.html",
+            "id": "https://blog.borgcreative.com/building-a-privacy-oriented-company/",
+            "url": "https://blog.borgcreative.com/building-a-privacy-oriented-company/",
             "title": "Building A Privacy Oriented Company",
             "summary": " Building products with the user's privacy in mind is not as easy as it sounds. Almost every digital product out there has some kind of third party backend service that can read data. That is why I have carefully chosen which services and what&hellip;",
             "content_html": "\n  <p>\n    Building products with the user's privacy in mind is not as easy as it sounds. Almost every digital product out there has some kind of third party backend service that can read data. That is why I have carefully chosen which services and what backend systems we use at BCS. For each one I read the privacy policies and ask, \"Would I want to use this product based on this policy?\" If the answer is \"no\" or \"maybe,\" we do not utilize that service.&nbsp;\n  </p>\n\n  <p>\n    This is actually one of the reasons Borg Creative Studios was founded. I was trying to advertise a ministry I work worth and I could not find a marketing platform that did not excessively record viewer data that was reasonably priced.\n  </p>\n\n  <p>\n    So, I created an ad platform.\n  </p>\n\n  <p>\n    Then a web browser.\n  </p>\n\n  <p>\n    Then a CSS library\n  </p>\n\n  <p>\n    And the next thing I knew I was filing the articles of incorporation.\n  </p>",
@@ -25,8 +25,8 @@
             "date_modified": "2021-07-28T15:56:06-07:00"
         },
         {
-            "id": "https://blog.borgcreative.com/open-source-site.html",
-            "url": "https://blog.borgcreative.com/open-source-site.html",
+            "id": "https://blog.borgcreative.com/open-source-site/",
+            "url": "https://blog.borgcreative.com/open-source-site/",
             "title": "Open Source Site",
             "summary": " Our open source and transparency website is now live! All of our open source projects can now easily be found in one place. Eventually, we will ad funding and support links to the projects. If we ever have to suspend or ban ads*, we&hellip;",
             "content_html": "\n  <p>\n    Our open source and transparency website is now live!\n  </p>\n\n  <p>\n    All of our open source projects can now easily be found in one <u><a href=\"http://open.borgcreative.com/\" target=\"_blank\">place</a>.</u>\n  </p>\n\n  <p>\n    Eventually, we will ad funding and support links to the projects.\n  </p>\n\n  <p>\n    If we ever have to suspend or ban ads*, we will post about it here. We do this as part of our dedication to transparency and honesty.&nbsp;\n  </p>\n\n  <p>\n    *The ad nor its publisher will be public, but the policy violated and action taken will be public.\n  </p>",
@@ -40,8 +40,8 @@
             "date_modified": "2021-07-22T16:20:46-07:00"
         },
         {
-            "id": "https://blog.borgcreative.com/jakes-cold-brew-coffee.html",
-            "url": "https://blog.borgcreative.com/jakes-cold-brew-coffee.html",
+            "id": "https://blog.borgcreative.com/jakes-cold-brew-coffee/",
+            "url": "https://blog.borgcreative.com/jakes-cold-brew-coffee/",
             "title": "Jake&#x27;s Cold Brew Coffee",
             "summary": " It's hot 🥵&nbsp; So let's make some cold brew coffee! Prep Time: 5 minutes Brew Time: 12-24 hours This is a pretty easy recipe. Just mix your ground coffee, water, and salt (Optional) into your jar and close it. Then, set it out for&hellip;",
             "content_html": "\n  <p>\n    It's hot 🥵&nbsp;\n  </p>\n\n  <p>\n    So let's make some cold brew coffee!\n  </p>\n\n  <p>\n    Prep Time: 5 minutes\n  </p>\n\n  <p>\n    Brew Time: 12-24 hours\n  </p>\n\n    <h5 id=\"you-will-need\">\n      You will need:\n    </h5>\n\n  <ul>\n    <li>4-5 tablespoons of fine-medium ground coffee (Depends on how strong you like your coffee)</li><li>1 cup of water</li><li>Canning jar or other glass sealable container (Plastic can be used, but may become stained)</li><li>Pinch of salt (Optional)</li>\n  </ul>\n\n    <h5 id=\"now-what\">\n      Now what?\n    </h5>\n\n  <p>\n    This is a pretty easy recipe. Just mix your ground coffee, water, and salt (Optional) into your jar and close it. Then, set it out for 12-24 hours.&nbsp;\n  </p>\n\n    <h5 id=\"timing-your-brew\">\n      Timing your brew*\n    </h5>\n\n  <p>\n    If you want a milder brew that is ready to drink as is, brew for 12 hours.\n  </p>\n\n  <p>\n    If you want more of a cold brew concentrate, let it brew for 24 hours.\n  </p>\n\n  <p>\n    *Your elevation and temperature of your home or office may impact brew time.\n  </p>\n\n    <h5 id=\"commentary\">\n      Commentary\n    </h5>\n\n  <p>\n    I personally choose to brew this for 12 hours as I am slightly impatient. I like to prepare the coffee early in the evening, that way it is ready for my morning coffee. Let's be honest, it is so hot here in Southern California that brewing hot coffee is not appealing.\n  </p>",
@@ -57,8 +57,8 @@
             "date_modified": "2021-07-02T09:16:14-07:00"
         },
         {
-            "id": "https://blog.borgcreative.com/bcs-social-is-now-in-beta.html",
-            "url": "https://blog.borgcreative.com/bcs-social-is-now-in-beta.html",
+            "id": "https://blog.borgcreative.com/bcs-social-is-now-in-beta/",
+            "url": "https://blog.borgcreative.com/bcs-social-is-now-in-beta/",
             "title": "BCS Social is now in beta!",
             "summary": " A new, vote based social/broadcasting platform We are excited to announce that BCS Social is now in beta! But what makes it special? Well, BCS Social is designed for the people who hate Mondays. Yes, that’s right. BCS Social is also curated by the&hellip;",
             "content_html": "\n    <h4 id=\"a-new-vote-based-socialbroadcasting-platform\">\n      A new, vote based social/broadcasting platform\n    </h4>\n\n  <p>\n    We are excited to announce that BCS Social is now in beta!\n  </p>\n\n  <p>\n    But what makes it special?\n  </p>\n\n  <p>\n    Well, BCS Social is designed for the people who hate Mondays. Yes, that’s right. BCS Social is also curated by the people, not an algorithm. When a user creates a post, it is reviewed to insure that it meets content guidelines, then it goes to the voting booth. At the voting booth, users vote on posts with a thumbs up or a thumbs down. Then on Mondays, the posts with the most votes go live on the feed and those that don’t make the cut are lost forever!\n  </p>\n\n  <p>\n    Check it out <a href=\"https://www.bcssocial.net/feed.html\" target=\"_blank\" rel=\"nofollow noopener\">HERE</a>.\n  </p>",
